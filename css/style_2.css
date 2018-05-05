@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Pangolin');
+ html {
+    font-family: 'Pangolin', cursive, sans-serif;
+    line-height: 1.8;
+  }
+
+body {
+    width: 90%;
+    height: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+  
+thead{
+    float:left;
+    background: skyblue;
+}
+
+tbody{
+    float: right;
+}
+
+th, td {
+    text-align: left;
+    display: block;
+    padding: 10px 20px;
+  }
+
+
+.column {
+    height: 650px;
+  }

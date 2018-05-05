@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Pangolin');
+ html {
+    font-family: 'Pangolin', cursive, sans-serif;
+    line-height: 1.8;
+    padding: 0;
+    margin: 0 auto;
+  }
+  
+  table {
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+  }
+
+  .t1 {
+    text-align: left;
+  }
+  
+  th, td {
+    text-align: left;
+    display: block;
+    padding: 10px 20px;
+  }
+  
+  dt {
+    font-weight: bold;
+    font-style: italic;
+  }
+  dd {
+    text-indent: -10px;
+  }
